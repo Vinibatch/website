@@ -1,0 +1,30 @@
+
+
+@font-face {
+  font-family: 'Orbitron-Bold';
+  src: url('./Orbitron-Bold.ttf') format('truetype');
+
+font-family : 'TradeWinds-Regular';
+src: url ("./TradeWinds-Regular.ttf") format('truetype');
+}
+
+.title {
+  display : flex;
+  align-items: center;
+  text-align :  center;
+  justify-content:  center;
+}
+
+.BG {
+  display : flex;
+  width: 100%;
+  height: 1000%;
+    background-image: url('wallpaper.png');
+}
+
+.App 
+{}
+.card 
+{
+
+  }
